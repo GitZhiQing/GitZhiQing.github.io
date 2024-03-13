@@ -1,54 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>你的文章标题</title>
-    <url>/2024/01/01/test/</url>
-    <content><![CDATA[<p>这里是文章的正文。</p>
-<p>你可以使用 Markdown 语法来编写你的文章。</p>
-<p>例如，你可以使用 <code>#</code> 来创建一个标题，使用 <code>*</code>
-来创建一个无序列表，使用 <code>1.</code> 来创建一个有序列表，等等。</p>
-<p>你也可以插入链接和图片。例如，这是一个链接：<a
-href="链接地址">链接文字</a>，这是一个图片：<img src="图片地址"
-alt="图片描述" />。</p>
-<p>最后，你可以使用 <code>&lt;!-- more --&gt;</code>
-标记来定义摘要。在这个标记之前的内容将作为文章的摘要显示在首页，而完整的文章内容将显示在文章的页面。</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>分类1</category>
-        <category>分类2</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
-    <url>/2024/03/12/hello-world/</url>
+    <url>/2024/03/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
 first post. Check <a href="https://hexo.io/docs/">documentation</a> for
 more info. If you get any problems when using Hexo, you can find the
-answer in <a
-href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
-you can ask me on <a
-href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
+you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="quick-start">Quick Start</h2>
 <h3 id="create-a-new-post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/writing.html">Writing</a></p>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="run-server">Run server</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="generate-static-files">Generate static files</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/generating.html">Generating</a></p>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a
-href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<figure>
+<img src="/2024/03/13/hello-world/20240313-102021.png" alt="20240313-102021.png">
+<figcaption aria-hidden="true">20240313-102021.png</figcaption>
+</figure>
 ]]></content>
   </entry>
 </search>
